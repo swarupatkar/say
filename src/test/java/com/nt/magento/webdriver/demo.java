@@ -6,8 +6,6 @@ public class demo {
 		public demo() {
 			System.out.println("demo");
 		}
-	public void getdata() {
-		
-	}
+	
 
 }
