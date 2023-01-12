@@ -21,6 +21,9 @@ public class WebDriverCC {
 		System.out.println("WebDriverCC");
 	}
 	
+	
+	
+	
 	// All the methods related to browser setup and tear-down
 	WebDriver driver;
 	public static ThreadLocal<WebDriver> thread = new ThreadLocal<WebDriver>();
