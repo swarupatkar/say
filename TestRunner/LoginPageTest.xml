@@ -15,4 +15,3 @@
 
 <!-- for listner,, we just add the class and implement the (ITestListener) and override the methods
 and simply add the (tag) in testng.xml file that listners tag <listeners> -->
-
