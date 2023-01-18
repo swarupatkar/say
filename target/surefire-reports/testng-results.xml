@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47622" started-at="2023-01-18T20:33:31 IST" finished-at="2023-01-18T20:34:18 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47622" started-at="2023-01-18T20:33:31 IST" finished-at="2023-01-18T20:34:18 IST">
+      <class name="com.nt.magento.tests.HomePageTest">
+        <test-method status="PASS" signature="setupBrowser(java.lang.String)[pri:0, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="setupBrowser" is-config="true" duration-ms="5486" started-at="2023-01-18T20:33:31 IST" finished-at="2023-01-18T20:33:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="verifyApplicationLogo()[pri:1, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="verifyApplicationLogo" duration-ms="12208" started-at="2023-01-18T20:33:36 IST" finished-at="2023-01-18T20:33:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApplicationLogo -->
+        <test-method status="PASS" signature="teardownBrowser()[pri:0, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="teardownBrowser" is-config="true" duration-ms="911" started-at="2023-01-18T20:33:49 IST" finished-at="2023-01-18T20:33:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownBrowser -->
+        <test-method status="PASS" signature="setupBrowser(java.lang.String)[pri:0, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="setupBrowser" is-config="true" duration-ms="3043" started-at="2023-01-18T20:33:49 IST" finished-at="2023-01-18T20:33:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="verifySignIn()[pri:2, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="verifySignIn" duration-ms="7640" started-at="2023-01-18T20:33:52 IST" finished-at="2023-01-18T20:34:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignIn -->
+        <test-method status="PASS" signature="teardownBrowser()[pri:0, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="teardownBrowser" is-config="true" duration-ms="875" started-at="2023-01-18T20:34:00 IST" finished-at="2023-01-18T20:34:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownBrowser -->
+        <test-method status="PASS" signature="setupBrowser(java.lang.String)[pri:0, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="setupBrowser" is-config="true" duration-ms="4040" started-at="2023-01-18T20:34:01 IST" finished-at="2023-01-18T20:34:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="verifyCreateAnAccount()[pri:3, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="verifyCreateAnAccount" duration-ms="12057" started-at="2023-01-18T20:34:05 IST" finished-at="2023-01-18T20:34:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateAnAccount -->
+        <test-method status="PASS" signature="teardownBrowser()[pri:0, instance:com.nt.magento.tests.HomePageTest@ed9d034]" name="teardownBrowser" is-config="true" duration-ms="1290" started-at="2023-01-18T20:34:17 IST" finished-at="2023-01-18T20:34:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownBrowser -->
+      </class> <!-- com.nt.magento.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
